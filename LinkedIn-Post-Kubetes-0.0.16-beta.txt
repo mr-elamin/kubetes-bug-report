@@ -1,0 +1,20 @@
+🚀 Excited to announce the birth of my new Kubernetes PaaS platform: **Kubetes** (v0.0.16-beta)!
+
+You can now deploy your first website **for free, forever** – no credit card required. Just sign up and start building!
+
+🌐 Try it now: https://deploynow.kubetes.com/
+
+✨ What can you do with Kubetes?
+- Use the built-in **AI Website Builder**: Simply describe your website (e.g. teacher lecture, CV, product site, portfolio, blog, restaurant, etc.) and the AI will create it for you – no coding or CMS experience needed!
+- Optionally upload images with descriptions for the AI to design your site
+- Prefer to build yourself? Push your code to GitHub (public or private) and Kubetes will auto-deploy it for you
+- Buy a custom domain (e.g. your-company.com) and attach it to your site (e.g. www.your-company.com) with a free SSL certificate
+- Or use a free subdomain (yourname.free.kubetes.com)
+
+🔒 Free DDoS protection, SSL, and more
+
+⚠️ **Beta Notice:** Kubetes is in early beta (v0.0.16-beta). Please note: I am not responsible for any data loss at this stage. Your feedback is welcome!
+
+🐞 Report issues or suggestions: https://github.com/mr-elamin/kubetes-bug-report/issues
+
+#Kubernetes #PaaS #AI #WebHosting #Startup #Beta #FreeForever
